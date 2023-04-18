@@ -1,0 +1,6 @@
+Joseffe
+action figure CDZ,1,1899.9
+action figure Kanon,1,2010.9
+action figure Hade EX,1,2499.9
+action figure Grande Mestre EX,1,2399.9
+Scenario grande relogio de fogo zodiacal,1,2099.9
